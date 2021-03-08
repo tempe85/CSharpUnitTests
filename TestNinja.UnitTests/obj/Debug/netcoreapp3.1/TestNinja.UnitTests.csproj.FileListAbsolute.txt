@@ -104,3 +104,5 @@ C:\Users\Zach\Desktop\CSharp Mosh\source-code-starter\TestNinja\TestNinja.UnitTe
 C:\Users\Zach\Desktop\CSharp Mosh\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
 C:\Users\Zach\Desktop\CSharp Mosh\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\netcoreapp3.1\nunit.framework.dll
 C:\Users\Zach\Desktop\CSharp Mosh\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Zach\Desktop\CSharp Mosh\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Zach\Desktop\CSharp Mosh\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\netcoreapp3.1\Moq.dll
